@@ -3,9 +3,10 @@ odugenjs
 
 small set of javascript files used by me.
 
-od.waitAndRun
+od
 -----------
 
+### waitAndRun
 will check condition and run callback when condition returns true.
 usage
 
